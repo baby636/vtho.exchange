@@ -29,7 +29,7 @@
     "styled-components": "^4.0.3",
     "superagent": "^5.0.6",
     "thorify": "^1.0.4",
-    "web3": "^1.0.0-beta.36",
+    "web3": "^1.2.7",
     "whatwg-fetch": "^3.0.0"
   },
   "scripts": {
