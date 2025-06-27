@@ -1,0 +1,12 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - react-app-rewire-less > npm > npm-profile > make-fetch-happen > https-proxy-agent:
+        patched: '2025-06-27T01:05:19.591Z'
+        id: SNYK-JS-HTTPSPROXYAGENT-469131
+        path: >-
+          react-app-rewire-less > npm > npm-profile > make-fetch-happen >
+          https-proxy-agent
